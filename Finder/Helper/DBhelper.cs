@@ -14,5 +14,10 @@ namespace Finder.Helper
             return;
         }
 
+        public void Remove()
+        {
+            return;
+        }
+
     }
 }
