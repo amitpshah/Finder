@@ -19,5 +19,9 @@ namespace Finder.Helper
             return;
         }
 
+        public void Update()
+        {
+            return;
+        }
     }
 }
