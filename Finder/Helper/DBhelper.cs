@@ -9,6 +9,8 @@ namespace Finder.Helper
     class DBhelper
     {
         public int numUsers;
+        public bool isOpen;
+        
         public void Add()
         {
             return;
