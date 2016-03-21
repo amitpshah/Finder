@@ -8,5 +8,11 @@ namespace Finder.Helper
 {
     class DBhelper
     {
+        public int numUsers;
+        public void Add()
+        {
+            return;
+        }
+
     }
 }
